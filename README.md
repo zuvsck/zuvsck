@@ -1,7 +1,5 @@
 <h1 align="center">zuvisck</h1>
 
-<h2 align="center">about</h2>
-
 <p align="center">
 i just like playing with letters and numbers
 </p>
