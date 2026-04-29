@@ -1,7 +1,5 @@
 <h1 align="center">zuvisck</h1>
 
-<br>
-
 <h2 align="center">about</h2>
 
 <p align="center">
