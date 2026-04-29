@@ -1,11 +1,3 @@
-<h1 align="center">zuvisck</h1>
-
-<p align="center">
-i just like playing with letters and numbers
-</p>
-
----
-
 <h2 align="center">stats</h2>
 
 <p align="center">
