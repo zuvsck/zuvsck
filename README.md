@@ -1,9 +1,4 @@
-<h1 align="center">zuvsck</h1>
-
-<p align="center">
-damn.<br>
-i’m developing some interesting, or even daring tools
-</p>
+<h1 align="center">zuvisck</h1>
 
 <br>
 
