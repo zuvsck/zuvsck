@@ -2,7 +2,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zuvsck&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuvsck&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000" width="48%" />
 </p>
 
 <p align="center">
