@@ -1,10 +1,6 @@
 <h2 align="center">stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zuvsck&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000" width="48%" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zuvsck&theme=github-dark-blue&hide_border=true&background=00000000" width="60%" />
 </p>
 
