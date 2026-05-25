@@ -1,25 +1,42 @@
-<h2 align="center">stats</h2>
-
+<!-- HEADER -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zuvsck&theme=github-dark-blue&hide_border=true&background=00000000" width="60%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:1F6FEB&height=220&section=header&text=zuvisck&fontSize=55&fontColor=F0F6FC&animation=fadeIn&fontAlignY=38&desc=@zuvsck%20%E2%80%A2%20doing%20some%20interesting%20things,%20or%20even%20pointless%20ones&descAlignY=58&descSize=15" />
+</p>
+
+<!-- TYPING -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=hi,+i'm+zuvisck;javascript+%7C+node.js+%7C+web+development;building+random+and+useful+things;github:+@zuvsck" />
+</p>
+
+<!-- BADGES -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=zuvsck&label=Profile%20views&color=1f6feb&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/zuvsck?label=Followers&style=for-the-badge&color=1f6feb&logo=github" />
+  <img src="https://img.shields.io/github/stars/zuvsck?label=Stars&style=for-the-badge&color=1f6feb&logo=github" />
 </p>
 
 ---
 
-<h2 align="center">activity</h2>
+## about me
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zuvsck&theme=github-dark&hide_border=true&bg_color=00000000" width="95%" />
-</p>
-
----
-
-<h2 align="center">stack</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/javascript-111111?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/node.js-111111?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/git-111111?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/github-111111?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/windows-111111?style=for-the-badge&logo=windows&logoColor=white" />
-</p>
+```js
+const zuvisck = {
+  nickname: "zuvisck",
+  github: "@zuvsck",
+  country: "Brazil",
+  system: "Windows",
+  focus: [
+    "JavaScript",
+    "Node.js",
+    "Web Development",
+    "APIs",
+    "Automation"
+  ],
+  currentlyLearning: [
+    "Backend",
+    "Databases",
+    "Deploy",
+    "GitHub"
+  ],
+  description: "doing some interesting things, or even pointless ones"
+};
