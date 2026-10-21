@@ -10,7 +10,6 @@
 
 <!-- BADGES -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zuvsck&label=Profile%20views&color=1f6feb&style=for-the-badge" />
   <img src="https://img.shields.io/github/followers/zuvsck?label=Followers&style=for-the-badge&color=1f6feb&logo=github" />
   <img src="https://img.shields.io/github/stars/zuvsck?label=Stars&style=for-the-badge&color=1f6feb&logo=github" />
 </p>
